@@ -1,0 +1,16 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":3,"parentId":0,"scrollX":424.8,"scrollY":364},
+{"id":2,"expanded":false,"name":"Castillo nevado","order":1,"parentId":0,"scrollX":809,"scrollY":552},
+{"id":3,"expanded":false,"name":"Cueva maldita","order":9,"parentId":6,"scrollX":1304.3999999999999,"scrollY":1808.3999999999999},
+{"id":4,"expanded":true,"name":"MAP004","order":4,"parentId":1,"scrollX":808.8,"scrollY":1432.8},
+{"id":5,"expanded":true,"name":"MAP005","order":5,"parentId":4,"scrollX":424.8,"scrollY":364},
+{"id":6,"expanded":true,"name":"Campamento nómada","order":6,"parentId":5,"scrollX":637.1999999999999,"scrollY":644.4},
+{"id":7,"expanded":false,"name":"Tienda de armas","order":2,"parentId":2,"scrollX":424.8,"scrollY":365.6},
+{"id":8,"expanded":true,"name":"Casa abandonada","order":7,"parentId":6,"scrollX":637.1999999999999,"scrollY":390},
+{"id":9,"expanded":false,"name":"Bar","order":8,"parentId":8,"scrollX":796.5,"scrollY":475.5},
+{"id":10,"expanded":false,"name":"MAP010","order":10,"parentId":6,"scrollX":531,"scrollY":317},
+{"id":11,"expanded":false,"name":"Bosque laberíntico","order":11,"parentId":6,"scrollX":1274,"scrollY":1140},
+{"id":12,"expanded":false,"name":"Ciénaga","order":12,"parentId":6,"scrollX":820,"scrollY":624},
+{"id":13,"expanded":false,"name":"Casa 1","order":13,"parentId":6,"scrollX":531,"scrollY":443}
+]

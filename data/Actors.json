@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"SF_Actor3_5","characterIndex":6,"characterName":"SF_Damage1","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"SF_Monster","traits":[],"initialLevel":1,"maxLevel":99,"name":"Brayan","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_2","characterIndex":1,"characterName":"Actor1","classId":8,"equips":[1,0,0,9,0],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":5,"maxLevel":99,"name":"Moli","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor2_1","characterIndex":0,"characterName":"Actor2","classId":4,"equips":[26,0,0,11,74],"faceIndex":0,"faceName":"Actor2","traits":[],"initialLevel":10,"maxLevel":99,"name":"Frederik","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor1_6","characterIndex":2,"characterName":"Evil","classId":6,"equips":[5,43,57,24,78],"faceIndex":2,"faceName":"Actor3","traits":[],"initialLevel":99,"maxLevel":99,"name":"Milei","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
